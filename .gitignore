@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+mysql/
+website.iml
+wordpress/1/
+Would skip repository wordpress/data/
